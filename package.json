@@ -1,11 +1,14 @@
 {
-  "name": "meme2",
+  "name": "meme_generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-scripts": "2.1.5",
+    "react-simple-share": "^0.1.2",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
